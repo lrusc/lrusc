@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lrusc
-- 👀 I’m interested in Bioinformatics, Data science
+- 👀 I’m interested in AI, Data science and bioinformatics 
 - 🌱 I’m currently learning Health Informatics
 - 📫 How to reach me ruschioni.l@gmail.com
 
